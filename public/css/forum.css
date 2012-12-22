@@ -1386,6 +1386,9 @@ spoiler {
 .spoiler-content {
     visibility:hidden;
 }
+.spoiled {
+    visibility:visible;
+}
 
 #preferences .error {
     float:none;
